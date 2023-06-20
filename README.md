@@ -1,3 +1,2 @@
-# site-responsivo-flexbox
-Site Responsivo com Flexbox
+# Site Responsivo - Flexbox
 Link: https://davidmellomiura.github.io/site-responsivo-flexbox/
